@@ -1,6 +1,13 @@
-# Example Repo
+# Inventory Project
 
-The contains a simple Python program called hello_world.py that prints messages to the console.
+## Description
+This Python program is a Nike stock storage manager. 
+Features include:
+- Viewing all shoes
+- Adding new shoes
+- Restocking lowest stock items
+- Searching by shoe code
+- Calculating total stock value
+- Showing highest stock item
 
-- **hello_world.py** prints "Hello World!" and "Git is awesome!"
-- Demonstrates basic Git version control workflow.
+Data is stored in a CSV-style text file (`inventory.txt`).

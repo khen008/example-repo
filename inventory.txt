@@ -1,0 +1,11 @@
+country,code,product,cost,quantity
+South Africa,SKU44386,Nike Air Max,1800,25
+China,SKU90812,Nike Revolution 6,950,40
+United States,SKU11223,Nike ZoomX Vaporfly,3200,12
+Vietnam,SKU55321,Nike Downshifter 12,780,60
+Germany,SKU77889,Nike Pegasus 39,2100,18
+South Africa,SKU99210,Nike Court Vision Low,1200,33
+China,SKU44112,Nike Flex Experience Run,700,48
+United States,SKU22119,Nike Infinity Run Flyknit,2900,15
+Vietnam,SKU66420,Nike Quest 5,850,27
+Germany,SKU33451,Nike Air Force 1,2300,20
